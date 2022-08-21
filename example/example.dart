@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:aws_s3_client/aws_s3_client.dart';
+import 'package:aws_s3_client_updated/aws_s3_client_updated.dart';
 
 main() async {
   Spaces spaces = Spaces(

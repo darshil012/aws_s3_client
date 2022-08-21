@@ -2,7 +2,7 @@ import 'dart:async';
 @TestOn('vm')
 import 'dart:io';
 
-import 'package:aws_s3_client/aws_s3_client.dart';
+import 'package:aws_s3_client_updated/aws_s3_client_updated.dart';
 import 'package:mime/mime.dart';
 import 'package:path/path.dart' as pathInfo;
 import 'package:test/test.dart';
